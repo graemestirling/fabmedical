@@ -11,7 +11,6 @@ on:
    # Configure workflow to also support triggering manually
    workflow_dispatch:
 
-
  env:
    imageRepository: 'content-web'
    resourceGroupName: 'fabmedical-287434'
